@@ -1,0 +1,58 @@
+name: Sync README
+on:
+  push:
+    branches:
+      - main
+jobs:
+  run-it:
+    runs-on: ubuntu-latest
+    name: Sync README
+    steps:
+
+      - name: Checkout codes
+        uses: actions/checkout@v2
+
+      - name: Install rclone
+        run: |
+          curl https://rclone.org/install.sh | sudo bash
+          mkdir -p ~/.config/rclone/
+          wget ${{ secrets.RCCF }} -P ~/.config/rclone/
+          
+      - name: Sync Readme
+        run: |
+          rclone delete pub:README.md
+          rclone copy README.md pub:
+          rclone delete pub:rep/README.md
+          rclone copy README.md pub:rep
+          rclone delete ani:README.md
+          rclone copy README.md ani:
+          rclone delete ani:ani/README.md
+          rclone copy README.md ani:ani
+          rclone delete mov:README.md
+          rclone copy README.md mov:
+          rclone delete mov:mov/README.md
+          rclone copy README.md mov:mov
+          rclone delete doc:README.md
+          rclone copy README.md doc:
+          rclone delete doc:doc/README.md
+          rclone copy README.md doc:doc
+          rclone delete tlv1:README.md
+          rclone copy README.md tlv1:
+          rclone delete tlv1:tlv/README.md
+          rclone copy README.md tlv1:tlv
+          rclone delete tlv2:README.md
+          rclone copy README.md tlv2:
+          rclone delete tlv2:tlv/README.md
+          rclone copy README.md tlv2:tlv
+          rclone delete 4k1:README.md
+          rclone copy README.md 4k1:
+          rclone delete 4k1:4k/README.md
+          rclone copy README.md 4k1:4k
+          rclone delete 4k2:README.md
+          rclone copy README.md 4k2:
+          rclone delete 4k2:4k/README.md
+          rclone copy README.md 4k2:4k
+          rclone delete 4k3:README.md
+          rclone copy README.md 4k3:
+          rclone delete 4k3:4k/README.md
+          rclone copy README.md 4k3:4k
