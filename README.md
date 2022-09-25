@@ -1,14 +1,20 @@
 <img align="right" width="240" src="https://gcore.jsdelivr.net/gh/ChirmyRam/ChirmyRam-OneDrive-Repository/odlogo.png">
 
-# 🛖 七米蓝的仓库
+# 🛖 Soledad的网盘资源管理站
 
 > 本站旨在分享资源，用作学习交流。
 
 > 使用方式：网页浏览下载、播放、WebDAV 浏览下载、播放。
 
-## 🎤 一、仓库介绍
+## 🎤 一、资源介绍
 
-- 各盘总文件近似大小（截止2022年9月25）
+- 各盘总文件粗略大小（截止2022年9月25）
+
+|盘符|OnedriveA|OnedriveB|OnedriveC|Pikpak|aliyundrive|待添加|待添加|待添加|待添加|
+|-|-|-|-|-|-|-|-|-|-|
+|大小（TB）|0.918|0|0|1|27.31|0|0|0|0|
+
+- 各盘总文件粗略大小（截止2022年9月25）
 
 |盘符|OnedriveA|OnedriveB|OnedriveC|Pikpak|aliyundrive|待添加|待添加|待添加|待添加|
 |-|-|-|-|-|-|-|-|-|-|
