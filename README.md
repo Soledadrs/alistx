@@ -48,6 +48,15 @@ user = share@chirmyram.top
 pass = 25es9-8BHYf1mDzSSaqMPBDAj3JjGh-95bjeWQ
 ```
 
+```
+[OnedriveC]
+type = webdav
+url = https://chirmyram-my.sharepoint.com/personal/ani_chirmyram_top/Documents/
+vendor = sharepoint
+user = share@chirmyram.top
+pass = 25es9-8BHYf1mDzSSaqMPBDAj3JjGh-95bjeWQ
+```
+
 </details>
 
 
