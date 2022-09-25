@@ -53,9 +53,9 @@ pass = 25es9-8BHYf1mDzSSaqMPBDAj3JjGh-95bjeWQ
 
 </details>
 
-## 📂 、分站一览
+## 📂 三、服务器运行一览
 
-> **✅/🔴  各分站状态实时监控：[https://up.chirmyram.com/](https://up.chirmyram.com/)**
+> **✅/🔴  服务器状态实时监控：[https://soledad.vpsl.tk//](https://soledad.vpsl.tk/)**
 
 **特别提示：** 网页播放器无法识别内封字幕、不兼容 HEVC 视频编码，需使用挂载到本地播放器或下载后播放。PC 端播放器推荐 [Potplayer](https://potplayer.daum.net/?lang=zh_CN) ，安卓端多媒体播放器推荐 [Nplayer](https://al.chirmyram.com/rep/Android/%E8%B0%B7%E6%AD%8C%E5%95%86%E5%BA%97/nPlayer_1.7.7.7_191219.apk) ，可显示视频内封字幕、音乐内封歌词；安卓端音乐播放器推荐 [cloudbeats](https://al.chirmyram.com/rep/Android/%E8%B0%B7%E6%AD%8C%E5%95%86%E5%BA%97/CloudBeats_1.8.4.apk) ，可较快生成播放列表并串流播放，留下的缓存也极小；安卓端电子书阅读器推荐[静读天下](https://al.chirmyram.com/rep/Android/%E8%B0%B7%E6%AD%8C%E5%95%86%E5%BA%97/Moon_Reader_Pro-v7.0_build_700005-M.apk)，支持多种电子书格式。
 - WebDAV 配置参数
@@ -67,7 +67,7 @@ pass = 25es9-8BHYf1mDzSSaqMPBDAj3JjGh-95bjeWQ
 |路径 / Path|/dav/|
 |协议 / HTTPS|SSL|
 |端口 / Port|443|
-|账号 / User|alist|
-|密码 / Password|alist|
+|账号 / User|admin|
+|密码 / Password|OyFyUcg4|
 
 注意：除非相关项目适配浏览器网页端，否则浏览器本身是不支持 WebDAV 协议的。
