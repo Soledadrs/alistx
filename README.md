@@ -1,10 +1,10 @@
-<img align="right" width="240" src="https://gcore.jsdelivr.net/gh/ChirmyRam/ChirmyRam-OneDrive-Repository/odlogo.png">
+<img align="right" width="240" src="https://soledadx.com/wp-content/uploads/2022/09/92042D11-EE21-4B41-A501-8B7DFD5C9007.png">
 
 # 🛖 七米蓝的仓库
 
-> 不只分享资源，还分享经验。本站用作学习交流，不得推广盈利。[【👉永久链接】](https://github.com/ChirmyRam/ChirmyRam-OneDrive-Repository) [![](https://img.shields.io/github/forks/ChirmyRam/ChirmyRam-OneDrive-Repository?style=social&label=star)](https://github.com/ChirmyRam/ChirmyRam-OneDrive-Repository) 
+> 本站旨在分享资源，用作学习交流。[【👉永久链接】](https://github.com/ChirmyRam/ChirmyRam-OneDrive-Repository) [![](https://img.shields.io/github/forks/ChirmyRam/ChirmyRam-OneDrive-Repository?style=social&label=star)](https://github.com/ChirmyRam/ChirmyRam-OneDrive-Repository) 
 
-> 食用方式：网页浏览下载、 WebDAV 浏览下载、 Rclone 批量搬运
+> 食用方式：网页浏览下载、 播放、WebDAV浏览下载、播放。
 
 > 联系方式：[【😸Github Issue】](https://github.com/ChirmyRam/ChirmyRam-OneDrive-Repository/issues) [【📧邮件】](https://mail.qq.com/cgi-bin/qm_share?t=qm_mailme&email=office@chirmyram.top)
 
