@@ -2,19 +2,17 @@
 
 # 🛖 七米蓝的仓库
 
-> 不只分享资源，还分享经验。本站用作学习交流，不得推广盈利。[【👉永久链接】](https://github.com/ChirmyRam/ChirmyRam-OneDrive-Repository) [![](https://img.shields.io/github/forks/ChirmyRam/ChirmyRam-OneDrive-Repository?style=social&label=star)](https://github.com/ChirmyRam/ChirmyRam-OneDrive-Repository) 
+> 本站旨在分享资源，用作学习交流。
 
-> 食用方式：网页浏览下载、 WebDAV 浏览下载、 Rclone 批量搬运
-
-> 联系方式：[【😸Github Issue】](https://github.com/ChirmyRam/ChirmyRam-OneDrive-Repository/issues) [【📧邮件】](https://mail.qq.com/cgi-bin/qm_share?t=qm_mailme&email=office@chirmyram.top)
+> 使用方式：网页浏览下载、播放、WebDAV 浏览下载、播放。
 
 ## 🎤 一、仓库介绍
 
-- 各盘总文件近似大小（截止2022年8月）
+- 各盘总文件近似大小（截止2022年9月25）
 
-|盘符|Rep|Ani|Mov|Doc|Tlv1|Tlv2|4K1|4K2|4K3|
+|各盘|OnedriveA|OnedriveB|OnedriveC|Pikpak|
 |-|-|-|-|-|-|-|-|-|-|
-|大小（TB）|3.5|24.8|18.6|7.4|21.1|13.1|20.1|20.3|20.7|
+|大小（TB）|0.918|0|0|1|27.31|
 
 出于由来已久的囤积癖、白嫖怪的素养、收集剪辑素材的需求，我收集了这些资源，哗啦啦搬来一堆东西十分满足，但整理起来也是真的费劲。本着开放与共享的精神，我创建了此仓库。文件储存于国际版 OneDrive ，订阅类型为 Office365 E5 Developer，分享文件的同时也在刷 API 实现玄学免费续订，刷上瘾了属于是。除了域名和服务器，其他没怎么花钱，老白嫖怪了，当然所花的精力没法估量。
 
