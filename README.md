@@ -10,7 +10,7 @@
 
 - 各盘总文件近似大小（截止2022年9月25）
 
-|各盘|OnedriveA|OnedriveB|OnedriveC|Pikpak|
+|各盘|OnedriveA|OnedriveB|OnedriveC|Pikpak|aliyundrive|
 |-|-|-|-|-|-|-|-|-|-|
 |大小（TB）|0.918|0|0|1|27.31|
 
