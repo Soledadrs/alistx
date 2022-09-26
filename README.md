@@ -1,4 +1,4 @@
-<img align="right" width="240" src="https://raw.githubusercontent.com/iosoledad/alistx/main/soledad.PNG">
+<img align="right" width="240" src="https://raw.githubusercontent.com/iosoledad/alistx/main/%E7%BA%B8%E9%A3%9E%E6%9C%BA.PNG">
 
 # 🛖 Soledad的网盘资源管理站
 
