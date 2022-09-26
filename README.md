@@ -1,4 +1,4 @@
-<img align="right" width="240" src="https://gcore.jsdelivr.net/gh/ChirmyRam/ChirmyRam-OneDrive-Repository/odlogo.png">
+<img align="right" width="240" src="https://raw.githubusercontent.com/iosoledad/alistx/main/WeChat%20%E5%9C%96%E7%89%87_20220926165914.png">
 
 # 🛖 Soledad的网盘资源管理站
 
