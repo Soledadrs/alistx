@@ -1,6 +1,6 @@
 <img align="right" width="100" src="https://raw.githubusercontent.com/iosoledad/alistx/main/soledad.png">
 
-# 🛖 soledad资源管理站
+# 🛖 Soledad
 
 > 本站旨在分享资源，用作学习交流。
 
