@@ -160,7 +160,7 @@ https://chirmyram-my.sharepoint.com/personal/pub_chirmyram_top/Documents/
 
 ## 📂 七、分站一览
 
-> **✅/🔴  各分站状态实时监控：[https://up.chirmyram.com/](https://up.chirmyram.com/)**
+> **✅/🔴  服务器状态实时监控：[https://soledad.vpsl.tk/](https://soledad.vpsl.tk)**
 
 ### 1.总盘
 
