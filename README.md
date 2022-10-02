@@ -1,4 +1,4 @@
-<img align="right" width="240" src="https://gcore.jsdelivr.net/gh/ChirmyRam/ChirmyRam-OneDrive-Repository/odlogo.png">
+<img align="right" width="100" src="https://raw.githubusercontent.com/iosoledad/alistx/main/soledad.png">
 
 # 🛖 Soledad的网盘资源管理站
 
