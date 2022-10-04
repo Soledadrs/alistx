@@ -99,7 +99,7 @@ pass = 25es9-8BHYf1mDzSSaqMPBDAj3JjGh-95bjeWQ
 |路径 / Path|/dav/|
 |协议 / HTTPS|SSL|
 |端口 / Port|5244|
-|账号 / User|admin|
-|密码 / Password|Hsm8Udp8|
+|账号 / User|guest|
+|密码 / Password|guest|
 
 注意：除非相关项目适配浏览器网页端，否则浏览器本身是不支持 WebDAV 协议的。
