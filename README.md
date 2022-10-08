@@ -1,4 +1,4 @@
-<img align="right" width="100" src="http://vip.syzkgg.com:2070/d/%E5%BF%97%E5%87%AF%E5%85%B1%E4%BA%AB/%E4%B8%AA%E4%BA%BA%E5%A4%B4%E5%83%8F/hello.gif">
+<img align="right" width="100" src="https://raw.githubusercontent.com/iosoledad/alistx/main/airplane.png">
 
 # 🛖 Soledad的网盘资源管理站
 
