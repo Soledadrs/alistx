@@ -55,15 +55,6 @@ pass = 25es9-8BHYf1mDzSSaqMPBDAj3JjGh-95bjeWQ
 ```
 
 ```
-[OnedriveC]
-type = webdav
-url = https://chirmyram-my.sharepoint.com/personal/mov_chirmyram_top/Documents/
-vendor = sharepoint
-user = share@chirmyram.top
-pass = 25es9-8BHYf1mDzSSaqMPBDAj3JjGh-95bjeWQ
-```
-
-```
 [Pikpak]
 type = webdav
 url = https://chirmyram-my.sharepoint.com/personal/doc_chirmyram_top/Documents/
