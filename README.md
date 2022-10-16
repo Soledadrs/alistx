@@ -15,7 +15,7 @@
 
 - 各盘总文件粗略大小（截止2022年10月16号更新）
 
-|盘符|OnedriveA|OnedriveB|googledrive个人盘|googledrivesoledad团队盘|Pikpak|aliyundrive|待添加|待添加|待添加|
+|盘符|OD-A|OD-B|GD-个人盘|GD-soledad团队盘|PikPak|AliyunDrive|待添加|待添加|待添加|
 |-|-|-|-|-|-|-|-|-|-|
 |大小（TB）|1.361|1.361|0|0|1|27.310|0|0|0|
 
