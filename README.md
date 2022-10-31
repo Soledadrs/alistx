@@ -73,6 +73,8 @@ pass = 25es9-8BHYf1mDzSSaqMPBDAj3JjGh-95bjeWQ
 </details>
 
 ## 📂 三、服务器一览
+<details>
+  <summary>【查看详情】</summary>
 
 > **✅/🔴  服务器状态实时监控：[https://soledad.vpsl.tk/](https://soledad.vpsl.tk)**
 
