@@ -6,11 +6,13 @@
 
 > 本站旨在分享资源，用作学习交流。
 
-> 使用方式：网页浏览下载、播放、WebDAV 浏览下载、播放。
+> 使用方式：网页浏览下载、播放，WebDAV 挂载浏览下载同埋播放。
 
 > 联系方式：[【🐧Telegram】](https://t.me/ifsoledad) [【🐧Telegram-bot】]([https://t.me/Ifsoledad_bot) 
 
 ## 🎤 一、资源介绍
+
+点击每个标题下嘅 **▶【查看详情】** 展开完整内容。
 
 <details>
   <summary>【查看详情】</summary>
@@ -20,8 +22,6 @@
 |盘符|OD-A|OD-B|GD-个人盘|GD-soledad团队盘|PikPak|AliyunDrive|
 |-|-|-|-|-|-|-|
 |大小（TB）|1.361|1.361|很多T|很多T|1|27.31|0|0|0|
-
-点击每个标题下的 **▶【查看详情】** 展开完整内容。
 
 </details>
 
