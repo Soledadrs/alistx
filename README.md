@@ -1,6 +1,7 @@
 <img align="left" width="100" src="https://raw.githubusercontent.com/iosoledad/alistx/main/Duck.gif">
 
 
+
 # 🛖  🏡 Soledadの电影屋
 
 
