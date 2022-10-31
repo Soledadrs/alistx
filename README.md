@@ -11,7 +11,7 @@
 
 > 联系方式：[【🐧Telegram】](https://t.me/ifsoledad) [【🐧Telegram-bot】]([https://t.me/Ifsoledad_bot) 
 
-## 🎤 一、资源介绍 🎤 
+##一、 🎤 资源介绍 🎤 
 
 点击每个标题下嘅 **▶【查看详情】** 展开完整内容。
 
@@ -26,7 +26,7 @@
 
 </details>
 
-## 🚀 二、批量搬运 🚀 
+##二、 🚀 批量搬运 🚀 
 
 <details>
   <summary>【点我查看详情】</summary>
@@ -75,7 +75,7 @@ pass = 暂无
 
 </details>
 
-## 📂 三、服务器运行一览 📂 
+##三、 📂 服务器运行一览 📂 
 <details>
   <summary>【点我查看详情】</summary>
 
