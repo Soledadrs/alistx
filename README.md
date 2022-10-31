@@ -37,37 +37,37 @@
 ```
 [OnedriveA]
 type = webdav
-url = https://chirmyram-my.sharepoint.com/personal/pub_chirmyram_top/Documents/
+url = https://ifsoledad-my.sharepoint.com/personal/ifsoledad/Documents/
 vendor = sharepoint
-user = share@chirmyram.top
-pass = 25es9-8BHYf1mDzSSaqMPBDAj3JjGh-95bjeWQ
+user = 暂无
+pass = 暂无
 ```
 
 ```
 [OnedriveB]
 type = webdav
-url = https://chirmyram-my.sharepoint.com/personal/ani_chirmyram_top/Documents/
+url = https://ifsoledad-my.sharepoint.com/personal/ifsoledad/Documents/
 vendor = sharepoint
-user = share@chirmyram.top
-pass = 25es9-8BHYf1mDzSSaqMPBDAj3JjGh-95bjeWQ
+user = 暂无
+pass = 暂无
 ```
 
 ```
 [Pikpak]
 type = webdav
-url = https://chirmyram-my.sharepoint.com/personal/doc_chirmyram_top/Documents/
+url = https://ifsoledad-my.sharepoint.com/personal/ifsoledad/Documents/
 vendor = sharepoint
-user = share@chirmyram.top
-pass = 25es9-8BHYf1mDzSSaqMPBDAj3JjGh-95bjeWQ
+user = 暂无
+pass = 暂无
 ```
 
 ```
 [aliyundrive]
 type = webdav
-url = https://chirmyram-my.sharepoint.com/personal/tlv_chirmyram_top/Documents/
+url = https://ifsoledad-my.sharepoint.com/personal/ifsoledad/Documents/
 vendor = sharepoint
-user = share@chirmyram.top
-pass = 25es9-8BHYf1mDzSSaqMPBDAj3JjGh-95bjeWQ
+user = 暂无
+pass = 暂无
 ```
 
 </details>
