@@ -2,7 +2,8 @@
 
 # 🛖  🏡 Soledadの电影屋
 
-
+<details>
+  <summary>【点我查看详情】</summary>
 
 > 本站旨在分享资源，用作学习交流。
 
