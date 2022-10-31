@@ -1,8 +1,6 @@
 <img align="left" width="100" src="https://raw.githubusercontent.com/iosoledad/alistx/main/Duck.gif">
 
-# 🛖 Soledad网盘资源管理站
-
-# 🏡 Soledadの电影屋
+# 🛖  🏡 Soledadの电影屋
 
 
 > 本站旨在分享资源，用作学习交流。
