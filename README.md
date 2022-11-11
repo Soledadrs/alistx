@@ -1,4 +1,4 @@
-<img align="left" width="100" src="https://ifscipts.tk/https://raw.githubusercontent.com/iosoledad/alistx/main/Duck.gif">
+<img align="left" width="100" src="https://cdn.jsdelivr.net/gh/iosoledad/alistx@main/kedaya.gif">
 
 # 🛖  🏡 Soledadの电影屋
 
