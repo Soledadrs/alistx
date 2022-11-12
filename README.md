@@ -11,9 +11,9 @@
 
 > 联系方式：[【🐧Telegram】](https://t.me/ifsoledad) [【🐧Telegram-bot】]([https://t.me/Ifsoledad_bot) 
 
-<img align="right" width="100" src="https://cdn.jsdelivr.net/gh/iosoledad/alistx@main/Duck.gif">
-
 ## 🎤 一、资源介绍
+
+  <img align="right" width="100" src="https://cdn.jsdelivr.net/gh/iosoledad/alistx@main/Duck.gif">
 
 点击每个标题下嘅 **▶【查看详情】** 展开完整内容。
 
