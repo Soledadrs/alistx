@@ -13,8 +13,6 @@
 
 ## 🎤 一、资源介绍
 
-  <img align="right" width="100" src="https://cdn.jsdelivr.net/gh/iosoledad/alistx@main/Duck.gif">
-
 点击每个标题下嘅 **▶【查看详情】** 展开完整内容。
 
 <details>
