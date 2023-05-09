@@ -31,7 +31,7 @@
 <details>
   <summary>【点我查看详情】</summary>
 
-- [Rclone](https://rclone.org/) 配置文件
+- [Rclone]([https://alistx.tk] 配置文件
 
 ```
 [OnedriveA]
