@@ -13,13 +13,8 @@
 
 ### 1. 微信赞赏码：
 
-![微信赞赏码](https://cdn.jsdelivr.net/gh/iosoledad/alistx@main/%E5%BE%AE%E4%BF%A1%E8%B5%9E%E8%B5%8F%E7%A0%81.png)
+<img align="left" width="100" src="https://cdn.jsdelivr.net/gh/iosoledad/alistx@main/%E5%BE%AE%E4%BF%A1%E8%B5%9E%E8%B5%8F%E7%A0%81.png">
 
-### 2. USDT：
-- TRC20 (Min > 5 USDT):<br/>
-**TUB4ZjeqpQCXnMe32PaKW8nSQgosFp48qP**
-- Polygon & BEP20 (Min > 0.5 USDT):<br/>
-**0xefD714ffa7103E979A82f125dc76A5a9a3314Edf**
 
 ## 🎤 一、资源介绍
 
