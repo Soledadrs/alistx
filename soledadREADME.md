@@ -13,7 +13,7 @@
 
 ### 1. 淘宝店铺：
 
-![淘宝店铺](https://cdn.jsdelivr.net/gh/iosoledad/alistx@main/%E6%B7%98%E5%AE%9D.png?raw=true)
+![淘宝店铺](https://cdn.jsdelivr.net/gh/iosoledad/alistx@main/%E6%B7%98%E5%AE%9D%E5%BA%97%E9%93%BA.jpg?raw=true)
 
 ## 🎤 一、资源介绍
 
