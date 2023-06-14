@@ -15,7 +15,7 @@
 
 <img align="left" width="400" src="https://cdn.jsdelivr.net/gh/iosoledad/alistx@main/hanke.gif">
 
-## 🎤 一、资源介绍
+### 🎤 一、资源介绍
 
 点击每个标题下嘅 **▶【查看详情】** 展开完整内容。
 
