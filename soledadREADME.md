@@ -1,4 +1,4 @@
-[<img align="left" width="100" src="https://cdn.jsdelivr.net/gh/iosoledad/alistx@main/hanke.gif">
+<img align="left" width="100" src="https://cdn.jsdelivr.net/gh/iosoledad/alistx@main/hanke.gif">
 
 # 🛖  🏡 Soledadの电影屋
 
@@ -97,4 +97,3 @@ pass = 暂无
 |密码 / Password|guest|
 
 注意：除非相关项目适配浏览器网页端，否则浏览器本身是不支持 WebDAV 协议的。
-](https://cdn.jsdelivr.net/gh/iosoledad/alistx@main/%E8%B5%9E%E8%B5%8F%E7%A0%81.jpg)https://cdn.jsdelivr.net/gh/iosoledad/alistx@main/%E8%B5%9E%E8%B5%8F%E7%A0%81.jpg
