@@ -13,7 +13,7 @@
 
 ### 1. 淘宝店铺：
 
-![淘宝店铺](https://ifscipts.tk/https://github.com/iosoledad/alistx/blob/main/%E6%B7%98%E5%AE%9D.png?raw=true)
+![淘宝店铺]<img align="right" width="240" src="https://ifscipts.tk/https://github.com/iosoledad/alistx/blob/main/%E6%B7%98%E5%AE%9D.png?raw=true">
 
 ## 🎤 一、资源介绍
 
