@@ -9,7 +9,9 @@
 
 > 使用方式：网页浏览下载、播放，WebDAV 挂载浏览下载同埋播放。
 
-> 联系方式：[【🐧Telegram】](https://t.me/ifsoledad)[【🐧Telegram-bot】](https://t.me/Ifsoledad_bot)
+> 联系方式：[【🐧Telegram】](https://t.me/soledaday)[【🐧Telegram-bot】](https://t.me/Ifsoledad_bot)
+
+> 淘宝店铺：[【🐧淘宝店铺】]<img align="left" width="100" src="[https://cdn.jsdelivr.net/gh/iosoledad/alistx@main/hanke.gif](https://ifscipts.tk/https://github.com/iosoledad/alistx/blob/main/%E6%B7%98%E5%AE%9D.png?raw=true)">
 
 ## 🎤 一、资源介绍
 
