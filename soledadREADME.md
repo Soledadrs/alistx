@@ -13,7 +13,8 @@
 
 ### 1. 淘宝店铺：
 
-![淘宝店铺]<img align="right" width="240" src="https://cdn.jsdelivr.net/gh/iosoledad/alistx@main/%E6%B7%98%E5%AE%9D.png?raw=true">
+![淘宝店铺](https://cdn.jsdelivr.net/gh/iosoledad/alistx@main/%E6%B7%98%E5%AE%9D.png?raw=true)
+
 ## 🎤 一、资源介绍
 
 点击每个标题下嘅 **▶【查看详情】** 展开完整内容。
