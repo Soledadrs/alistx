@@ -2,14 +2,14 @@
 
 # 🛖  🏡 Soledadの电影屋
 
-<img align="right" width="100" src="https://cdn.jsdelivr.net/gh/iosoledad/alistx@main/%E5%BE%AE%E4%BF%A1%E8%B5%9E%E8%B5%8F%E7%A0%81.png">
-
 <details>
   <summary>【点我查看详情】</summary>
 
 > 本站旨在分享资源，用作学习交流。
 
 > 使用方式：网页浏览下载、播放，WebDAV 挂载浏览下载同埋播放。
+
+<img align="left" width="100" src="https://cdn.jsdelivr.net/gh/iosoledad/alistx@main/%E5%BE%AE%E4%BF%A1%E8%B5%9E%E8%B5%8F%E7%A0%81.png">
 
 > 联系方式：[【🐧Telegram】](https://t.me/soledaday)[【🐧Telegram-bot】](https://t.me/Ifsoledad_bot)
 
