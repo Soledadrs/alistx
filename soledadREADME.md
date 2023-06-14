@@ -11,7 +11,9 @@
 
 > 联系方式：[【🐧Telegram】](https://t.me/soledaday)[【🐧Telegram-bot】](https://t.me/Ifsoledad_bot)
 
+### 1. 淘宝店铺：
 
+![淘宝店铺]<img align="right" width="240" src="https://cdn.jsdelivr.net/gh/iosoledad/alistx@main/%E6%B7%98%E5%AE%9D.png?raw=true">
 ## 🎤 一、资源介绍
 
 点击每个标题下嘅 **▶【查看详情】** 展开完整内容。
