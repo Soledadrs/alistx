@@ -11,13 +11,12 @@
 
 > 联系方式：[【🐧Telegram】](https://t.me/soledaday)[【🐧Telegram-bot】](https://t.me/Ifsoledad_bot)
 
-## #1. 微信赞赏码：
+## 1. 微信赞赏码：
 
 <details>
   <summary>【点我查看详情】</summary>
 
 <img align="left" width="400" src="https://cdn.jsdelivr.net/gh/iosoledad/alistx@main/%E5%BE%AE%E4%BF%A1%E8%B5%9E%E8%B5%8F%E7%A0%81.png">
-
 
 ## 🎤 一、资源介绍
 
