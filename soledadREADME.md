@@ -13,7 +13,7 @@
 
 ### 1. 微信赞赏码：
 
-<img align="left" width="100" src="https://cdn.jsdelivr.net/gh/iosoledad/alistx@main/%E5%BE%AE%E4%BF%A1%E8%B5%9E%E8%B5%8F%E7%A0%81.png">
+<img align="right" width="400" src="https://cdn.jsdelivr.net/gh/iosoledad/alistx@main/%E5%BE%AE%E4%BF%A1%E8%B5%9E%E8%B5%8F%E7%A0%81.png">
 
 
 ## 🎤 一、资源介绍
