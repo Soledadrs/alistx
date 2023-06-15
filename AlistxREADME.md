@@ -11,6 +11,10 @@
 
 > 联系方式：[【🐧Telegram】](https://t.me/ifsoledad)[【🐧Telegram-bot】](https://t.me/Ifsoledad_bot)
 
+### 1. 微信赞赏码：
+
+![微信赞赏码](https://raw.githubusercontent.com/iosoledad/alistx/main/%E5%BE%AE%E4%BF%A1%E8%B5%9E%E8%B5%8F%E7%A0%81.png)
+
 ## 🎤 一、资源介绍
 
 点击每个标题下嘅 **▶【查看详情】** 展开完整内容。
