@@ -89,8 +89,8 @@ pass = 暂无
 
 |参数|值|
 |-|-|
-|链接 / URL|https://soledad.me/dav/|
-|主机 / Host|https://soledad.me|
+|链接 / URL|https://alone.eu.org/dav/|
+|主机 / Host|https://alone.eu.org|
 |路径 / Path|/dav/|
 |协议 / HTTPS|SSL|
 |端口 / Port|5244|
