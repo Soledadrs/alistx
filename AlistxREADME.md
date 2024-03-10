@@ -1,4 +1,4 @@
-<img align="left" width="100" src="https://cdn.jsdelivr.net/gh/iosoledad/alistx@main/kedaya.gif">
+<img align="left" width="100" src="https://cdn.jsdelivr.net/gh/Soledadrs/alistx@main/kedaya.gif">
 
 # 🛖  🏡 Soledadの电影屋
 
@@ -9,11 +9,11 @@
 
 > 使用方式：网页浏览下载、播放，WebDAV 挂载浏览下载同埋播放。
 
-> 联系方式：[【🐧Telegram】](https://t.me/ifsoledad)[【🐧Telegram-bot】](https://t.me/Ifsoledad_bot)
+> 联系方式：[【🐧Telegram】](https://t.me/soledaday)[【🐧Telegram-bot】](https://t.me/Ifsoledad_bot)
 
 ### 1. 微信赞赏码：
 
-![微信赞赏码](https://raw.githubusercontent.com/iosoledad/alistx/main/%E5%BE%AE%E4%BF%A1%E8%B5%9E%E8%B5%8F%E7%A0%81.png)
+![微信赞赏码](https://cdn.jsdelivr.net/gh/Soledadrs/alistx@main/%E5%BE%AE%E4%BF%A1%E8%B5%9E%E8%B5%8F%E7%A0%81.png)
 
 ## 🎤 一、资源介绍
 
@@ -35,7 +35,7 @@
 <details>
   <summary>【点我查看详情】</summary>
 
-- [Rclone](https://alistx.tk/) 配置文件
+- [Rclone](https://alone..eu.org/) 配置文件
 
 ```
 [OnedriveA]
@@ -79,7 +79,7 @@ pass = 暂无
 <details>
   <summary>【点我查看详情】</summary>
 
-> **✅/🔴  服务器状态实时监控：[https://soledad.vpsl.tk/](https://soledad.vpsl.tk)**
+> **✅/🔴  服务器状态实时监控：[https://soledad.wechatout.eu.org/](https://soledad.wechatout.eu.org)**
 
 ##### 配置注意事项
 
