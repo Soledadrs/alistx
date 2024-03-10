@@ -13,7 +13,7 @@
 
 ### 1. 微信赞赏码：
 
-![微信赞赏码](https://raw.githubusercontent.com/iosoledad/alistx/main/%E5%BE%AE%E4%BF%A1%E8%B5%9E%E8%B5%8F%E7%A0%81.png)
+![微信赞赏码](https://cdn.jsdelivr.net/gh/Soledadrs/alistx@main/%E5%BE%AE%E4%BF%A1%E8%B5%9E%E8%B5%8F%E7%A0%81.png)
 
 
 ## 🎤 一、资源介绍
@@ -80,7 +80,7 @@ pass = 暂无
 <details>
   <summary>【点我查看详情】</summary>
 
-> **✅/🔴  服务器状态实时监控：[https://soledad.vpsl.tk/](https://soledad.vpsl.tk)**
+> **✅/🔴  服务器状态实时监控：[https://soledad.wechatout.eu.org/](https://soledad.wechatout.eu.org)**
 
 ##### 配置注意事项
 
