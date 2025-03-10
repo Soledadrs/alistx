@@ -47,7 +47,7 @@
 
 > Soledad's|のHugo：[【https://www.soledad.cloudns.asia】](https://www.soledad.cloudns.asia)
 
-> Soledad's|のOne：[【https://www.277711.xyz/one】](https://www.277711.xyz/one)
+> Soledad's|のOne：[【https://www.277711.xyz/One】](https://www.277711.xyz/One)
 
 > Soledad's|のbookmarks：[【https://www.277711.xyz/bookmarks】](https://www.277711.xyz/bookmarks)
 
