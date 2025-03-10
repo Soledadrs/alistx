@@ -1,6 +1,6 @@
 <img align="left" width="100" src="https://cdn.jsdelivr.net/gh/Soledadrs/alistx@main/hanke.gif">
 
-# 🛖  🏡 Soledad's|のSite
+# 🛖  🏡 Soledadの电影屋
 
 <details>
   <summary>【点我查看详情】</summary>
@@ -11,45 +11,47 @@
 
 > 联系方式：[【🐧Soledad's|のTelegram】](https://t.me/soledist) [【🐧Telegram-bot】](https://t.me/Ifsoledad_bot)
 
-> 联系方式：[【🐧Soledad's|のSiteStatus：域名https://www.creators.eu.org】](https://t.me/soledist)
+> Soledad's|のSiteStatus：[【https://www.creators.eu.org】](https://www.creators.eu.org)
 
-> 联系方式：[【🐧Soledad's|のTelegram】](https://t.me/soledist)
+> Soledad's|のSPlayer：[【https://www.ifemby.eu.org】](https://www.ifemby.eu.org)
 
-> 联系方式：[【🐧Soledad's|のTelegram】](https://t.me/soledist)
+> Soledad's|のGPlayer：[【https://www.xn--pruv10j.eu.org】](https://www.xn--pruv10j.eu.org)
 
-> 联系方式：[【🐧Soledad's|のTelegram】](https://t.me/soledist)
+> Soledad's|のHomePage：[【https://www.oneself.eu.org】](https://www.oneself.eu.org)
 
-> 联系方式：[【🐧Soledad's|のTelegram】](https://t.me/soledist)
+> Soledad's|のUnlimited：[【https://www.277711.xyz/e/home】](https://www.277711.xyz/e/home)
 
-> 联系方式：[【🐧Soledad's|のTelegram】](https://t.me/soledist)
+> Soledad's|のBD：[【https://www.277711.xyz/BridgeSoledad】](https://www.277711.xyz/BridgeSoledad)
 
-> 联系方式：[【🐧Soledad's|のTelegram】](https://t.me/soledist)
+> Soledad's|のSnav：[【https://www.ifcare.eu.org】](https://www.ifcare.eu.org)
 
-> 联系方式：[【🐧Soledad's|のTelegram】](https://t.me/soledist)
+> Soledad's|のPicx：[【https://www.ifsoledad.eu.org】](https://www.ifsoledad.eu.org)
 
-> 联系方式：[【🐧Soledad's|のTelegram】](https://t.me/soledist)
+> Soledad's|のSiteProxy：[【https://siteproxy.cares.eu.org/Soledadsite/https/www.netptop.com】](https://siteproxy.cares.eu.org/Soledadsite/https/www.netptop.com)
 
-> 联系方式：[【🐧Soledad's|のTelegram】](https://t.me/soledist)
+> Soledad's|のjsDelivr：[【https://cdn.cares.eu.org】](https://cdn.cares.eu.org)
 
-> 联系方式：[【🐧Soledad's|のTelegram】](https://t.me/soledist)
+> Soledad's|のCDN：[【https://www.277711.xyz/JsDelivr】](https://www.277711.xyz/JsDelivr)
 
-> 联系方式：[【🐧Soledad's|のTelegram】](https://t.me/soledist)
+> Soledad's|のzhichi：[【https://www.277711.xyz/e/zhichi】](https://www.277711.xyz/e/zhichi)
 
-> 联系方式：[【🐧Soledad's|のTelegram】](https://t.me/soledist)
+> Soledad's|のPay：[【https://www.277711.xyz/Payments】](https://www.277711.xyz/Payments)
 
-> 联系方式：[【🐧Soledad's|のTelegram】](https://t.me/soledist)
+> Soledad's|のPress：[【https://www.277788.xyz】](https://www.277788.xyz)
 
-> 联系方式：[【🐧Soledad's|のTelegram】](https://t.me/soledist) 
+> Soledad's|のNext：[【https://www.soledad.cloudns.org】](https://www.soledad.cloudns.org)
 
-> 联系方式：[【🐧Soledad's|のTelegram】](https://t.me/soledist) 
+> Soledad's|のBlog：[【https://soledad.eu.org】](https://soledad.eu.org)
 
-> 联系方式：[【🐧Soledad's|のTelegram】](https://t.me/soledist) 
+> Soledad's|のAlist：[【https://alone.eu.org】](https://alone.eu.org)
 
-> 联系方式：[【🐧Soledad's|のTelegram】](https://t.me/soledist) 
+> Soledad's|のHugo：[【https://www.soledad.cloudns.asia】](https://www.soledad.cloudns.asia)
 
-> 联系方式：[【🐧Soledad's|のTelegram】](https://t.me/soledist) 
+> Soledad's|のOne：[【https://www.277711.xyz/one】](https://www.277711.xyz/one)
 
-> 联系方式：[【🐧Soledad's|のTelegram】](https://t.me/soledist)
+> Soledad's|のbookmarks：[【https://www.277711.xyz/bookmarks】](https://www.277711.xyz/bookmarks)
+
+> Soledad's|のMoive：[【https://www.277711.xyz/Moive】](https://www.277711.xyz/Moive)
 
 ### 1. 微信赞赏码：
 
