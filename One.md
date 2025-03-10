@@ -9,7 +9,7 @@
 
 > 使用方式：网页浏览下载、播放，WebDAV 挂载浏览下载同埋播放。
 
-> 联系方式：[【🐧Telegram】](https://t.me/soledaday)[【🐧Telegram-bot】](https://t.me/Ifsoledad_bot)
+> 联系方式：[【🐧Soledad's|のTelegram】](https://t.me/soledist)[【🐧Telegram-bot】](https://t.me/Ifsoledad_bot)
 
 ### 1. 微信赞赏码：
 
