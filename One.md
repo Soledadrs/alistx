@@ -1,6 +1,6 @@
 <img align="left" width="100" src="https://cdn.jsdelivr.net/gh/Soledadrs/alistx@main/hanke.gif">
 
-# 🛖  🏡 Soledadの电影屋
+# 🛖  🏡 Soledad's|のSite
 
 <details>
   <summary>【点我查看详情】</summary>
