@@ -53,6 +53,8 @@
 
 > Soledad's|のMoive：[【https://www.277711.xyz/Moive】](https://www.277711.xyz/Moive)
 
+> Soledad's|のSoledad-docs：[【https://ifcreator.eu.org】](https://ifcreator.eu.org)
+
 ### 1. 微信赞赏码：
 
 ![微信赞赏码](https://cdn.jsdelivr.net/gh/Soledadrs/alistx@main/%E5%BE%AE%E4%BF%A1%E8%B5%9E%E8%B5%8F%E7%A0%81.png)
